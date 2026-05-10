@@ -1,10 +1,11 @@
 {
   "name": "viral-patel-n8n",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Self-hosted n8n workflow automation",
+  "main": "start.js",
   "scripts": {
-    "start": "n8n start",
+    "start": "node start.js",
+    "start:local": "n8n start",
     "start:tunnel": "n8n start --tunnel"
   },
   "keywords": [],

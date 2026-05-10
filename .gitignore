@@ -2,3 +2,4 @@ node_modules/
 .n8n/
 .env
 *.log
+deploy.zip
