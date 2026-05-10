@@ -1,0 +1,17 @@
+{
+  "name": "viral-patel-n8n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start",
+    "start:tunnel": "n8n start --tunnel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "n8n": "^2.8.4"
+  }
+}
